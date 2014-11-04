@@ -17,6 +17,8 @@
 		008462B31A0961FB004EF456 /* Race_2_tha_topTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 008462B21A0961FB004EF456 /* Race_2_tha_topTests.m */; };
 		008462BD1A096231004EF456 /* Mount_Fuji_and_Mount_Hoei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 008462BC1A096231004EF456 /* Mount_Fuji_and_Mount_Hoei.jpg */; };
 		008462C01A096467004EF456 /* SpaceShipView.m in Sources */ = {isa = PBXBuildFile; fileRef = 008462BF1A096467004EF456 /* SpaceShipView.m */; };
+		008462C31A0968AB004EF456 /* MountainPath.m in Sources */ = {isa = PBXBuildFile; fileRef = 008462C21A0968AB004EF456 /* MountainPath.m */; };
+		008462C61A096AE9004EF456 /* PathView.m in Sources */ = {isa = PBXBuildFile; fileRef = 008462C51A096AE9004EF456 /* PathView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,10 @@
 		008462BC1A096231004EF456 /* Mount_Fuji_and_Mount_Hoei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mount_Fuji_and_Mount_Hoei.jpg; sourceTree = "<group>"; };
 		008462BE1A096467004EF456 /* SpaceShipView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpaceShipView.h; sourceTree = "<group>"; };
 		008462BF1A096467004EF456 /* SpaceShipView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpaceShipView.m; sourceTree = "<group>"; };
+		008462C11A0968AB004EF456 /* MountainPath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MountainPath.h; sourceTree = "<group>"; };
+		008462C21A0968AB004EF456 /* MountainPath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MountainPath.m; sourceTree = "<group>"; };
+		008462C41A096AE9004EF456 /* PathView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PathView.h; sourceTree = "<group>"; };
+		008462C51A096AE9004EF456 /* PathView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PathView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +97,10 @@
 				008462971A0961FB004EF456 /* AppDelegate.h */,
 				008462981A0961FB004EF456 /* AppDelegate.m */,
 				008462A01A0961FB004EF456 /* Main.storyboard */,
+				008462C11A0968AB004EF456 /* MountainPath.h */,
+				008462C21A0968AB004EF456 /* MountainPath.m */,
+				008462C41A096AE9004EF456 /* PathView.h */,
+				008462C51A096AE9004EF456 /* PathView.m */,
 				008462BE1A096467004EF456 /* SpaceShipView.h */,
 				008462BF1A096467004EF456 /* SpaceShipView.m */,
 				0084629D1A0961FB004EF456 /* ViewController.h */,
@@ -236,6 +246,8 @@
 				0084629F1A0961FB004EF456 /* ViewController.m in Sources */,
 				0084629C1A0961FB004EF456 /* Race_2_tha_top.xcdatamodeld in Sources */,
 				008462C01A096467004EF456 /* SpaceShipView.m in Sources */,
+				008462C61A096AE9004EF456 /* PathView.m in Sources */,
+				008462C31A0968AB004EF456 /* MountainPath.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
