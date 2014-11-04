@@ -24,9 +24,28 @@
                             </imageView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="643-pt-ppx" customClass="PathView">
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Score 2000" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F75-zX-HPM">
+                                        <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                        <variation key="widthClass=regular" fixedFrame="YES">
+                                            <rect key="frame" x="427" y="47" width="129" height="43"/>
+                                        </variation>
+                                    </label>
+                                </subviews>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <variation key="default">
+                                    <mask key="subviews">
+                                        <exclude reference="F75-zX-HPM"/>
+                                    </mask>
+                                </variation>
                                 <variation key="widthClass=regular" fixedFrame="YES">
                                     <rect key="frame" x="0.0" y="0.0" width="1024" height="768"/>
+                                    <mask key="subviews">
+                                        <include reference="F75-zX-HPM"/>
+                                    </mask>
                                 </variation>
                             </view>
                         </subviews>
@@ -47,6 +66,7 @@
                     <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
                     <connections>
                         <outlet property="pathView" destination="643-pt-ppx" id="Vdh-UE-ylH"/>
+                        <outlet property="scoreLabel" destination="F75-zX-HPM" id="voU-Qq-AFX"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
