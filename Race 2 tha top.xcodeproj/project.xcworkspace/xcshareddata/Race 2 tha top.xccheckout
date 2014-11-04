@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3B3924DE-73F7-4024-98CE-CD22AE2ED6F2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Race 2 tha top</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3ECA3F78401C38481283EF32913BFC27DD034EFD</key>
+		<string>https://github.com/brainstarr/Race-2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Race 2 tha top.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3ECA3F78401C38481283EF32913BFC27DD034EFD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/brainstarr/Race-2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3ECA3F78401C38481283EF32913BFC27DD034EFD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3ECA3F78401C38481283EF32913BFC27DD034EFD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Race%202%20tha%20top</string>
+		</dict>
+	</array>
+</dict>
+</plist>
