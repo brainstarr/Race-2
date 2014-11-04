@@ -15,6 +15,7 @@
 		008462A41A0961FB004EF456 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 008462A31A0961FB004EF456 /* Images.xcassets */; };
 		008462A71A0961FB004EF456 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 008462A51A0961FB004EF456 /* LaunchScreen.xib */; };
 		008462B31A0961FB004EF456 /* Race_2_tha_topTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 008462B21A0961FB004EF456 /* Race_2_tha_topTests.m */; };
+		008462BD1A096231004EF456 /* Mount_Fuji_and_Mount_Hoei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 008462BC1A096231004EF456 /* Mount_Fuji_and_Mount_Hoei.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		008462AC1A0961FB004EF456 /* Race 2 tha topTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Race 2 tha topTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		008462B11A0961FB004EF456 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		008462B21A0961FB004EF456 /* Race_2_tha_topTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Race_2_tha_topTests.m; sourceTree = "<group>"; };
+		008462BC1A096231004EF456 /* Mount_Fuji_and_Mount_Hoei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mount_Fuji_and_Mount_Hoei.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,9 +87,9 @@
 			children = (
 				008462971A0961FB004EF456 /* AppDelegate.h */,
 				008462981A0961FB004EF456 /* AppDelegate.m */,
+				008462A01A0961FB004EF456 /* Main.storyboard */,
 				0084629D1A0961FB004EF456 /* ViewController.h */,
 				0084629E1A0961FB004EF456 /* ViewController.m */,
-				008462A01A0961FB004EF456 /* Main.storyboard */,
 				008462A31A0961FB004EF456 /* Images.xcassets */,
 				008462A51A0961FB004EF456 /* LaunchScreen.xib */,
 				0084629A1A0961FB004EF456 /* Race_2_tha_top.xcdatamodeld */,
@@ -99,6 +101,7 @@
 		008462931A0961FB004EF456 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				008462BC1A096231004EF456 /* Mount_Fuji_and_Mount_Hoei.jpg */,
 				008462941A0961FB004EF456 /* Info.plist */,
 				008462951A0961FB004EF456 /* main.m */,
 			);
@@ -202,6 +205,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				008462BD1A096231004EF456 /* Mount_Fuji_and_Mount_Hoei.jpg in Resources */,
 				008462A21A0961FB004EF456 /* Main.storyboard in Resources */,
 				008462A71A0961FB004EF456 /* LaunchScreen.xib in Resources */,
 				008462A41A0961FB004EF456 /* Images.xcassets in Resources */,
